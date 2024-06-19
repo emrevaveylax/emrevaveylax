@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Android,Kotlin and Java.I also know Python,HTML,CSS and Javascript.I am currently developing myself in an independent company.
+I'm currently learning Android, Kotlin and Java. I also know Python, HTML, CSS and Javascript. I am currently developing myself at Vaveylax Company.
 
 
 # 💻 Languages:
